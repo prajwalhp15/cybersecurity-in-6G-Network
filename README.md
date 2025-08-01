@@ -46,7 +46,7 @@ RETURN cve.id, cve.description
 MATCH (cve:CVE)-[:RELATED_TO]->(cwe:CWE)-[:RELATED_TO]->(capec:CAPEC)
 RETURN cve.id, cwe.id, capec.name
 ```
-Use-Cases
+## Use-Cases
 Analyzing vulnerabilities across different attack patterns.
 
 Identifying common weaknesses exploited in specific domains.
@@ -55,10 +55,10 @@ Supporting cyber threat detection using relationship-based reasoning.
 
 Enabling visual threat mapping for SOC analysts or cybersecurity researchers.
 
-Credits
+## Credits
 This project was collaboratively developed during the NITK Cybersecurity Bootcamp in February 2025.
 
-Team members:
+## Team members:
 Prajwal HP,
 Amulya,
 Nidhi v,
@@ -67,7 +67,7 @@ Pavan Bendre.
 
 Special thanks to our mentors and faculty at NITK for guidance and support during the bootcamp.
 
-Industrial Partners:
+## Industrial Partners:
 
 Honeywell Technology Solutions Lab Pvt. Ltd.
 
