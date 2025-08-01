@@ -66,3 +66,9 @@ Pavan Bendre.
 
 
 Special thanks to our mentors and faculty at NITK for guidance and support during the bootcamp.
+
+Industrial Partners:
+
+Honeywell Technology Solutions Lab Pvt. Ltd.
+
+5C Network Pvt. Ltd.
